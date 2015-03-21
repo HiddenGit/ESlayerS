@@ -9,7 +9,7 @@ import org.rev317.min.api.wrappers.Tile;
  */
 public enum SlayerTower {
 	
-	BANSHEES("Banshees", new Tile[] { new Tile(3418, 3537) });
+	BATTLE_MAGES("Battle Mages" , new Tile[] { new Tile(3418, 3537) });
 
 	
 	private String name;
